@@ -1,0 +1,16 @@
+# Security Policy
+
+## Supported Versions
+
+Jenom to nejnovější!!!
+
+| Version | Supported          |
+| ------- | ------------------ |
+| 5.1.x   | :white_check_mark: |
+| 5.0.x   | :x:                |
+| 4.0.x   | :x: |
+| < 4.0   | :x:                |
+
+## Reporting a Vulnerability
+
+Oprav nebo zamlč
